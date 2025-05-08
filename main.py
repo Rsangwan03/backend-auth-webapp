@@ -11,6 +11,7 @@ app.add_middleware(
         # "http://52.168.163.26",
         "http://localhost:5173",
         # "http://127.0.0.1:5173"
+        "https://stylestore-frontend-webapp-bpf4bjfgdha3gpcp.canadacentral-01.azurewebsites.net"
     ],
     allow_credentials=True,
     allow_methods=["*"],
